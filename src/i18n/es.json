@@ -1,0 +1,40 @@
+{
+  "login": {
+	"title": "Iniciar sesión",
+	"email": "Correo electrónico",
+	"password": "Contraseña",
+	"submit": "Iniciar sesión",
+	"switchToSignUp": "¿No tienes una cuenta? Regístrate"
+  },
+  "signup": {
+	"title": "Crear una cuenta",
+	"name": "Nombre",
+	"email": "Correo electrónico",
+	"password": "Contraseña",
+	"submit": "Registrarse",
+	"switchToLogin": "¿Ya tienes una cuenta? Inicia sesión"
+  },
+  "dashboard": {
+	"title": "Repositorios",
+	"logout": "Cerrar sesión",
+	"viewRepository": "Ver repositorio",
+	"yourRepositories": "Tus repositorios de GitHub",
+	"starredRepositories": "Repositorios destacados",
+	"connectGitHub": "Conectar GitHub",
+	"searchRepo": "Buscar repositorios"
+  },
+  "errors": {
+	"invalidCredentials": "Correo electrónico o contraseña inválidos",
+	"requiredName": "El nombre es obligatorio",
+	"requiredEmail": "El correo electrónico es obligatorio",
+	"invalidEmail": "Formato de correo electrónico inválido",
+	"requiredPassword": "La contraseña es obligatoria",
+	"emailOrPassword": "Correo electrónico o contraseña incorrectos",
+	"requiredField": "Este campo es obligatorio",
+	"noSpaces": "No se permiten espacios",
+	"mustStartWithLetter": "El campo debe comenzar con una letra",
+	"emailAlreadyInUse": "El correo electrónico ya está en uso",
+	"passwordTooShort": "La contraseña debe tener al menos 6 caracteres",
+	"nameTooShort": "El nombre debe tener al menos 2 caracteres"
+  }
+}
